@@ -3,7 +3,7 @@
  
 ****How to use:****
 
-1. Save the file for example "resize_and_crop_images.py".
+1. Download the imgResCrop.exe file.
 2. Open your terminal or command prompt and navigate to the directory where the exe file is located.
 3. To run the program, type the following command:
 
