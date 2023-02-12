@@ -7,7 +7,7 @@
 2. Open your terminal or command prompt and navigate to the directory where the exe file is located.
 3. To run the program, type the following command:
 
-   ```python resize_and_crop_images.py <new_width> <new_height> [--fillcolor <color>]```
+   ```imgResCrop.exe <new_width> <new_height> [--fillcolor <color>]```
 
 where <new_width> and <new_height> are the desired width and height for the resized and cropped images, respectively.
 
@@ -18,7 +18,7 @@ If --fillcolor black is specified, the padding will be black. If this argument i
 
 ****Example:****
 
-```python resize_and_crop_images.py 100 100 --fillcolor black```
+```imgResCrop.exe 100 100 --fillcolor black```
 
 This command will resize and crop all the images in the current directory to 100x100 pixels, with black padding.
 The resized and cropped images will be saved with the prefix resized_and_cropped_.
