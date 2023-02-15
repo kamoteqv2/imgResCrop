@@ -22,3 +22,6 @@ If --fillcolor black is specified, the padding will be black. If this argument i
 
 This command will resize and crop all the images in the current directory to 100x100 pixels, with black padding.
 The resized and cropped images will be saved with the prefix resized_and_cropped_.
+
+
+Credit: This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and promoting Free DIY technology.
